@@ -1,7 +1,7 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
-### NAME : ARJUN N S
-### REG NO : 212223230020
+### NAME : SOWMYA BADONI
+### REG NO : 212223230211
 # AIM:
 To execute Windows basic commands and batch scripting
 
